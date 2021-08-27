@@ -1,2 +1,3 @@
 # mini-projet
-des petits programmes que j'ai fait mais qui n'ont pas grandes utilités ( je trouve quand même intéressant de les présenter )  
+Des petits programmes que j'ai fait mais qui n'ont pas grandes utilités.
+Cependant, je pense qu'il serait tout de même intéressant de les montrer.
